@@ -15,6 +15,6 @@ format: video
 ---
 I spent the last few days polishing up and making a trailer for a modular weapon system that I&#8217;ve been working on with <a href="http://www.crazyferretstudios.com" target="_blank">Lee Devonald</a>. Here it is:
 
-<span class="embed-youtube" style="text-align:center; display: block;"></span>
+<iframe width="792" height="476" src="https://www.youtube.com/embed/PkNGMZ9AF0g" frameborder="0" allowfullscreen></iframe>
 
 We just submitted it to the UE4 marketplace, so I hope you&#8217;ll be able to check it out for yourself soon! Let me know what you think!

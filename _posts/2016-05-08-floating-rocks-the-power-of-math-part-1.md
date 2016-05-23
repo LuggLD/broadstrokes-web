@@ -59,7 +59,7 @@ This tutorial assumes you know at least the basics of how to use UE4 Blueprints
 
 I just built this tool here yesterday for a scene my friend <a href="https://twitter.com/OBLIQUE_JLR" target="_blank">Jon Riley</a> is making (all meshes and textures used here are made by him!), and we&#8217;ll use it as an example to show some things you can do to make those stones float nicely:
 
-
+<iframe width="640" height="360" src="https://www.youtube.com/embed/oih6NwVrOOM" frameborder="0" allowfullscreen></iframe>
 
 It&#8217;s pretty simple, really! Let&#8217;s look at the big stone at the top first. As you can see below, it does some very slow undulating rotations and a bit of bobbing.
 
