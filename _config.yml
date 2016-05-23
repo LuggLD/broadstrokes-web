@@ -11,7 +11,7 @@ title                    : 'Broad Strokes'
 title_separator          : "-"
 name                     : "Jan Kaluza"
 description              : "Gamnes & Stuff by Jan Kaluza"
-url                      : "http://www.broad-strokes.com/v2" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #"http://www.broad-strokes.com/v2" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : 500x300.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -50,9 +50,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-60858322-1
 
 # Google AdSense
 google_ad_client         :
@@ -124,10 +124,15 @@ keep_files:
   - .htaccess
   - bssite.css
   - download
-  - [i]
-  - [images]
-  - [portfolio]
+  - i
+  - images
+  - ld30
+  - media
+  - photos
   - play
+  - portfolio
+  - stuff
+  - wordpress
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 

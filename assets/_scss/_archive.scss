@@ -86,15 +86,15 @@ a:hover {
 
 .list__item {
   @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
+    // padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
+    // padding-right: $right-sidebar-width;
   }
 
   @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
+    // padding-right: $right-sidebar-width-wide;
   }
 
   .page__meta {
@@ -247,4 +247,14 @@ a:hover {
       }
     }
   }
+}
+
+.post__title {
+    line-height: 1.25;
+    text-align: center;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    font-size: 2.1em;
+    width: 80%;
+    margin: 0 auto;
 }
