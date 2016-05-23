@@ -2,9 +2,17 @@
    ARCHIVE
    ========================================================================== */
 
-.clearfix {
-  overflow: auto;
-  zoom: 1;
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+.grid__wrapper {
+    @include clearfix;
+    display: block;
 }
 
 .archive {
@@ -55,6 +63,7 @@
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
+  @include clearfix;
   img {
     width: 100%;
   }
@@ -100,6 +109,8 @@ a:hover {
 
 .grid__item {
   margin-bottom: 2em;
+  @include clearfix;
+  min-height: 300px;
 
   .page__meta {
     margin: 0 0 4px;

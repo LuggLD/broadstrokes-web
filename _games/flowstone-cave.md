@@ -6,7 +6,12 @@ author: Jan
 layout: page
 guid: http://www.broad-strokes.com/?page_id=302
 featuredgame: true
+header:
+  image: wp-content/uploads/2015/01/coconuts-landscape-1912x657.jpg
+  teaser: wp-content/uploads/2015/01/coconuts-landscape-1912x657.jpg
 ---
+{{teaser}}
+
 [<img class="alignnone size-large wp-image-309" title="" src="http://www.broad-strokes.com/wordpress/wp-content/uploads/2015/02/UE4Game-Win32-Shipping-2015-02-19-00-52-37-18-1024x576.jpg" alt="Flowstone Cave 4" width="640" height="360" srcset="http://www.broad-strokes.com/wordpress/wp-content/uploads/2015/02/UE4Game-Win32-Shipping-2015-02-19-00-52-37-18-1024x576.jpg 1024w, http://www.broad-strokes.com/wordpress/wp-content/uploads/2015/02/UE4Game-Win32-Shipping-2015-02-19-00-52-37-18-300x169.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />](http://www.broad-strokes.com/wordpress/wp-content/uploads/2015/02/UE4Game-Win32-Shipping-2015-02-19-00-52-37-18.jpg " ")
 
 ## About the Flowstone Cave:
