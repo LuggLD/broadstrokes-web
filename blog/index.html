@@ -6,7 +6,7 @@ paginate: true
 ---
 
 {% include base_path %}
-<p><a href="/blog-archive/" class="meta">Archives</a></p>
+<p><a href="{{ base_path }}/blog-archive/" class="meta">Archives</a></p>
 {% for post in paginator.posts %}
   {% include archive-full.html %}
   <hr>

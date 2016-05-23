@@ -14,10 +14,10 @@ tags:
   - gamejam
   - unrealengine4
 ---
-Our game for this weekend&#8217;s <a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=35382" target="_blank">Ludum Dare 31</a> is finished! [You can have it](http://www.broad-strokes.com/games/n-o-r-e-d-the-war-on-christmas/ "N.O.R.E.D.: The War On Christmas") for free! Check it out if you like movie-style radar screens, saving Santa from evil communist elves in fighter planes, and freedom!
+Our game for this weekend&#8217;s <a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=35382" target="_blank">Ludum Dare 31</a> is finished! [You can have it](/games/gamejams/n-o-r-e-d-the-war-on-christmas/ "N.O.R.E.D.: The War On Christmas") for free! Check it out if you like movie-style radar screens, saving Santa from evil communist elves in fighter planes, and freedom!
 
 [<img class="aligncenter wp-image-160 size-large" src="http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/12/HighRes_SShot_6-1024x520.jpg" alt="HighRes_SShot_6" width="1024" height="520" srcset="http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/12/HighRes_SShot_6-1024x520.jpg 1024w, http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/12/HighRes_SShot_6-300x152.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" />](http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/12/HighRes_SShot_6.jpg)
 
-Check it out [here](http://www.broad-strokes.com/games/n-o-r-e-d-the-war-on-christmas/ "N.O.R.E.D.: The War On Christmas") or comment and vote for us on our <a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=35382" target="_blank">Ludum Dare page</a>!
+Check it out [here](/games/gamejams/n-o-r-e-d-the-war-on-christmas/ "N.O.R.E.D.: The War On Christmas") or comment and vote for us on our <a href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=35382" target="_blank">Ludum Dare page</a>!
 
 xoxo

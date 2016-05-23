@@ -17,5 +17,5 @@ In addition, we are maintaining a <a href="http://www.slack.com" target="_blank"
 
 If you&#8217;re only looking for documentation of our asset packs, these links are for you:
 
-  * [Over 9000 Swords &#8211; Unreal Engine docs](http://www.broad-strokes.com/tools/over-9000-swords/ue4-docs/)
-  * [Over 9000 Swords &#8211; Unity docs](http://www.broad-strokes.com/tools/over-9000-swords/unity-docs/)
+  * [Over 9000 Swords &#8211; Unreal Engine docs](/tools/over-9000-swords/ue4-docs/)
+  * [Over 9000 Swords &#8211; Unity docs](/tools/over-9000-swords/unity-docs/)

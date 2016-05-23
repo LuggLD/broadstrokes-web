@@ -39,19 +39,23 @@ Now, the problem with this simple approach is that it only displaces a surface o
 
 As you can imagine, this complicates things. One of the problems with this setup is that since tessellation doesn&#8217;t apply to collision, even if you have complex per-poly collision enabled for your mesh, it&#8217;s possible for the player&#8217;s viewpoint to clip into the mesh if it is heavily tessellated.
 
-Thankfully there is a simple workaround to adjust that, which only involves a tiny little bit of maths. What we did before simply adds a positive offset to the mesh&#8217;s surface. Instead, we should average it so that the displacement goes inwards and outwards in equal amounts. This is quite simple! Just replace this part of your material:<figure id="attachment_121" style="width: 584px" class="wp-caption aligncenter">
+Thankfully there is a simple workaround to adjust that, which only involves a tiny little bit of maths. What we did before simply adds a positive offset to the mesh&#8217;s surface. Instead, we should average it so that the displacement goes inwards and outwards in equal amounts. This is quite simple! Just replace this part of your material:
 
-[<img class="wp-image-121 size-full" src="http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-standardsetup1.jpg" alt="" width="584" height="316" srcset="http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-standardsetup1.jpg 584w, http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-standardsetup1-300x162.jpg 300w" sizes="(max-width: 584px) 100vw, 584px" />](http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-standardsetup1.jpg)<figcaption class="wp-caption-text">Standard setup</figcaption></figure> 
+<figure id="attachment_121" style="width: 584px" class="wp-caption aligncenter">
+<img class="wp-image-121 size-full" src="http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-standardsetup1.jpg" alt="" width="584" height="316" srcset="http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-standardsetup1.jpg 584w, http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-standardsetup1-300x162.jpg 300w" sizes="(max-width: 584px) 100vw, 584px" />
+<figcaption class="wp-caption-text">Standard setup</figcaption></figure> 
 
-&#8230;with this:<figure id="attachment_120" style="width: 760px" class="wp-caption aligncenter">
-
-[<img class="wp-image-120 size-full" src="http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-adjustedsetup1.jpg" alt="" width="760" height="333" srcset="http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-adjustedsetup1.jpg 760w, http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-adjustedsetup1-300x131.jpg 300w" sizes="(max-width: 760px) 100vw, 760px" />](http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-adjustedsetup1.jpg)<figcaption class="wp-caption-text">Adjusted setup</figcaption></figure> 
+&#8230;with this:
+<figure id="attachment_120" style="width: 760px" class="wp-caption aligncenter">
+<img class="wp-image-120 size-full" src="http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-adjustedsetup1.jpg" alt="" width="760" height="333" srcset="http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-adjustedsetup1.jpg 760w, http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-adjustedsetup1-300x131.jpg 300w" sizes="(max-width: 760px) 100vw, 760px" />
+<figcaption class="wp-caption-text">Adjusted setup</figcaption></figure> 
 
 In the example above, we add anything between 0-50 displacement to the mesh, depending on whether the height map is more black (=0) or more white (=1), which then gets multiplied by 50. To correct for this, in the second example we simply subtract 25 from the result (the &#8220;Tessellation Scale&#8221; parameter divided by 2), before multiplying it with the vertex normals. That means that now, the blacks in our heightmap are at -25, and the whites are at +25 offset from the mesh. Simple, right? 🙂
 
-Here&#8217;s what the adjusted setup looks like compared to the unadjusted one. As you can see, the mesh is displaced both inwards and outwards:<figure id="attachment_114" style="width: 561px" class="wp-caption aligncenter">
-
-[<img class="wp-image-114 size-full" src="http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-example2_anim2.gif" alt="tessellation-example2_anim2" width="561" height="402" />](http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-example2_anim2.gif)<figcaption class="wp-caption-text">Don&#8217;t get confused by the huge Tessellation Height Factors, that&#8217;s one huge mesh I&#8217;m using there.</figcaption></figure> 
+Here&#8217;s what the adjusted setup looks like compared to the unadjusted one. As you can see, the mesh is displaced both inwards and outwards:
+<figure id="attachment_114" style="width: 561px" class="wp-caption aligncenter">
+<img class="wp-image-114 size-full" src="http://www.broad-strokes.com/wordpress/wp-content/uploads/2014/10/tessellation-example2_anim2.gif" alt="tessellation-example2_anim2" width="561" height="402" />
+<figcaption class="wp-caption-text">Don&#8217;t get confused by the huge Tessellation Height Factors, that&#8217;s one huge mesh I&#8217;m using there.</figcaption></figure> 
 
 Alright, that&#8217;s it for this simple technique. Hope you learned something! Feel free to contact me on <a href="http://twitter.com/JKashaar" target="_blank">Twitter</a> or comment on this post if you have any questions or suggestions for other tutorials you would like to see!
 

@@ -841,7 +841,6 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
 .page__content p, .page__content li, .page__content dl { font-size: 1em; }
 .page__content p { margin: 0 0 1.3em; }
 .page__content a { text-decoration: none; }
-.page__content a:hover { text-decoration: underline; }
 .page__content a:hover img { box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); }
 .page__content dt { margin-top: 1em; font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-weight: bold; }
 .page__content dd { margin-left: 1em; font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em; }

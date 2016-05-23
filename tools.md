@@ -6,6 +6,6 @@ author: Jan
 layout: page
 guid: http://www.broad-strokes.com/?page_id=393
 ---
-## [Over 9000 Swords](http://www.broad-strokes.com/tools/over-9000-swords/)
+## [Over 9000 Swords](/tools/over-9000-swords/)
 
-A highly customizable and easily extendable, fully modular melee weapon system. [Read more](http://www.broad-strokes.com/tools/over-9000-swords/)
+A highly customizable and easily extendable, fully modular melee weapon system. [Read more](/tools/over-9000-swords/)

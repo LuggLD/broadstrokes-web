@@ -31,11 +31,11 @@ Or get it [on the Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/co
 
 ### Unreal Engine 4 version
 
-The UE4 package includes a level with tutorials and examples. In addition, here is a [documentation page](http://www.broad-strokes.com/tools/over-9000-swords/ue4-docs/).
+The UE4 package includes a level with tutorials and examples. In addition, here is a [documentation page](/tools/over-9000-swords/ue4-docs/).
 
 ### Unity version
 
-Please see the [Unity documentation page](http://www.broad-strokes.com/tools/over-9000-swords/unity-docs/).
+Please see the [Unity documentation page](/tools/over-9000-swords/unity-docs/).
 
 ## Technical Support
 
