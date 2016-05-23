@@ -12,19 +12,19 @@ feature_row:
     alt: "Tutorials"
     title: "Tutorials"
     excerpt: "Unreal Engine 4 Tutorials. Learn some of the techniques that I've picked up over the years."
-    url: "/docs/layouts/"
+    url: "/tutorials/"
     btn_label: "Learn More"
   - image_path: featurette-games.png
     alt: "Games"
     title: "Games"
     excerpt: "Free Games! Take a look at some of the things we've created."
-    url: "/docs/license/"
+    url: "/games/"
     btn_label: "Learn More"
   - image_path: featurette-blog.png
     alt: "Dev blog"
     title: "Dev Blog"
     excerpt: "The occasional ramblings of a well-caffeinated game developer."
-    url: "/docs/configuration/"
+    url: "/blog/"
     btn_label: "Learn More"
 intro:
   - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @InBroadStrokes](https://twitter.com/mmistakes){: .btn .btn--twitter}'

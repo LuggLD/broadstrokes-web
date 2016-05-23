@@ -9,6 +9,14 @@
   animation-delay: 0.15s;
   z-index: 20;
 
+  @include breakpoint($small) {
+      height: $masthead-height-small;
+  }
+
+  @include breakpoint($medium) {
+      height: $masthead-height-medium;
+  }
+
   &__inner-wrap {
     @include container;
     @include clearfix;
