@@ -6,6 +6,9 @@ author: Jan
 layout: page
 gamejam: true
 guid: http://www.broad-strokes.com/?page_id=323
+header:
+  image: features/heyyyyy.jpg
+  teaser: features/heyyyyy-th.jpg
 ---
 ### Submission to UE4 February Gamejam: &#8220;Love is a Battlefield&#8221;
 

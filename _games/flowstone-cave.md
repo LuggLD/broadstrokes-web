@@ -7,8 +7,8 @@ layout: page
 guid: http://www.broad-strokes.com/?page_id=302
 featuredgame: true
 header:
-  image: wp-content/uploads/2015/01/coconuts-landscape-1912x657.jpg
-  teaser: wp-content/uploads/2015/01/coconuts-landscape-1912x657.jpg
+  image: features/flowstonecave.jpg
+  teaser: features/flowstonecave-th.jpg
 ---
 {{teaser}}
 

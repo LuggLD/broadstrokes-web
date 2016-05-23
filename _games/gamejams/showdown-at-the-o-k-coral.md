@@ -6,6 +6,9 @@ author: Jan
 layout: page
 gamejam: true
 guid: http://www.broad-strokes.com/?page_id=67
+header:
+  image: features/okcoral.jpg
+  teaser: features/okcoral-th.jpg
 ---
 ### Jam entry for Ludum Dare 29
 

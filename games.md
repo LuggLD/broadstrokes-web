@@ -10,20 +10,18 @@ guid: http://www.broad-strokes.com/?page_id=62
 
 {% include base_path %}
 
-<h2>Games</h2>
-
 <div class="grid__wrapper">
-  {% for post in site.games %}
+  {% for post in site.games reversed %}
     {% if post.featuredgame %}
       {% include archive-single.html type="grid" %}
     {% endif %}
   {% endfor %}
 </div>
 
-<div class="grid__wrapper"><h2>Gamejams</h2></div>
+<h2>Gamejams</h2>
 
 <div class="grid__wrapper">
-  {% for post in site.games %}
+  {% for post in site.games reversed %}
     {% if post.gamejam %}
       {% include archive-single.html type="grid" %}
     {% endif %}

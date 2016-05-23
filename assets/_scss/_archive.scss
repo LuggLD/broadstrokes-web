@@ -110,7 +110,6 @@ a:hover {
 .grid__item {
   margin-bottom: 2em;
   @include clearfix;
-  min-height: 300px;
 
   .page__meta {
     margin: 0 0 4px;

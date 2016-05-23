@@ -6,6 +6,9 @@ author: Jan
 layout: page
 gamejam: true
 guid: http://www.broad-strokes.com/?page_id=77
+header:
+  image: features/hexracer.jpg
+  teaser: features/hexracer-th.jpg
 ---
 ### Jam entry for Ludum Dare 30
 

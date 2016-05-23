@@ -14,7 +14,7 @@ description              : "Gamnes & Stuff by Jan Kaluza"
 url                      : "http://www.broad-strokes.com/v2" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : 500x300.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -121,6 +121,13 @@ exclude:
 keep_files:
   - .git
   - .svn
+  - .htaccess
+  - bssite.css
+  - download
+  - [i]
+  - [images]
+  - [portfolio]
+  - play
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -148,7 +155,7 @@ kramdown:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /blog/page:num
 timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 

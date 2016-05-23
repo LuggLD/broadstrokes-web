@@ -6,6 +6,9 @@ author: Jan
 layout: page
 gamejam: true
 guid: http://www.broad-strokes.com/?page_id=155
+header:
+  image: features/nored.jpg
+  teaser: features/nored-th.jpg
 ---
 ### Submission to Ludum Dare 31: &#8220;Entire Game On One Screen&#8221;
 

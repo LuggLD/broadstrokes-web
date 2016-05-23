@@ -909,7 +909,7 @@ a:hover .archive__item-title { text-decoration: underline; }
 .list__item .page__meta { margin: 0 0 4px; }
 
 /* Grid view ========================================================================== */
-.grid__item { margin-bottom: 2em; min-height: 300px; }
+.grid__item { margin-bottom: 2em; }
 .grid__item:after { content: ""; display: table; clear: both; }
 .grid__item .page__meta { margin: 0 0 4px; }
 .grid__item .archive__item-title { margin-top: 0.5em; font-size: 1em; }

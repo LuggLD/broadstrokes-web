@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Dev Blog"
+author_profile: false
+---
+
+{% include base_path %}
+
+{% for post in paginator.posts %}
+  {% include archive-full.html %}
+  <p>bla!</p>
+{% endfor %}
+
+{% include paginator.html %}
