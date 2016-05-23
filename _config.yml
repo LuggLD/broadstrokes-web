@@ -11,7 +11,7 @@ title                    : 'Broad Strokes'
 title_separator          : "-"
 name                     : "Jan Kaluza"
 description              : "Gamnes & Stuff by Jan Kaluza"
-url                      : "http://www.broad-strokes.com/v2" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #"http://www.broad-strokes.com/v2" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : 500x300.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -62,7 +62,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Jan Kaluza"
-  avatar           : "bio-photo.jpg"
+  avatar           : "/images/jan-portrait1.png"
   bio              : "I am an amazing person."
   location         : "Somewhere"
   email            :
@@ -160,12 +160,14 @@ kramdown:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /blog/page:num
+paginate_path: /blog/page:num/
+paginate_subpath: /blog
 timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 gems:
+#  - octopress-paginate
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -201,6 +203,9 @@ collections:
   games:
     output: true
     permalink: /games/:path/
+  tools:
+    output: true
+    permalink: /tools/:path/
   
   # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
@@ -222,4 +227,17 @@ compress_html:
   ignore:
     envs: development
 
-excerpt_separator: '<!--more-->'
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      excerpt_separator: '<!--more-->'
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      paginate_subpath: /blog

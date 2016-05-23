@@ -67,7 +67,7 @@ $background-color           : $bs-background;
 $code-background-color      : lighten($bs-background, 10%);
 $code-background-color-dark : darken($bs-background, 10%);
 $text-color                 : $bs-text;
-$border-color               : darken($bs-text, 10%);
+$border-color               : $bs-accent;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;

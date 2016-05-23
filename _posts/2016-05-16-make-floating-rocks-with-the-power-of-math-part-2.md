@@ -6,6 +6,9 @@ author: Jan
 layout: single
 guid: http://www.broad-strokes.com/?p=479
 permalink: /2016-05/make-floating-rocks-with-the-power-of-math-part-2/
+header:
+  image: features/flowstonecave.jpg
+  teaser: features/flowstonecave-th.jpg
 enclosure:
   - |
     |

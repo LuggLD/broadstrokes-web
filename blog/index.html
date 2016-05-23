@@ -2,10 +2,11 @@
 layout: archive
 title: "Dev Blog"
 author_profile: false
+paginate: true
 ---
 
 {% include base_path %}
-
+<p><a href="/blog-archive/" class="meta">Archives</a></p>
 {% for post in paginator.posts %}
   {% include archive-full.html %}
   <hr>

@@ -11,6 +11,9 @@ main:
 
   - title: "Portfolio"
     url: http://portfolio.broad-strokes.com/
+    
+  - title: "Assets"
+    url: /tools
 
   - title: "Support"
     url: /support
