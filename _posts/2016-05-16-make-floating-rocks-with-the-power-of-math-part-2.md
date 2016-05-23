@@ -73,9 +73,9 @@ As always, illustrations help! Did you know that sine functions can be expresse
 
 <img class="alignnone size-full wp-image-554" src="http://www.broad-strokes.com/wordpress/wp-content/uploads/2016/05/sine-circle.gif" alt="sine-circle" width="480" height="145" />
 
-Let&#8217;s look at the right part of it first. On this graph, the X axis (the horizontal one), tracks the rotation angle. If you&#8217;re curious about the π stuff, don&#8217;t worry about that for now &#8211; that&#8217;s a different way to write angles, called &#8220;radians&#8221;, which you might have heard of. For ease of explanation, we&#8217;ll just use degrees &#8211; but if you&#8217;re curious, click on this spoiler:
+Let&#8217;s look at the right part of it first. On this graph, the X axis (the horizontal one), tracks the rotation angle. If you&#8217;re curious about the π stuff, don&#8217;t worry about that for now &#8211; that&#8217;s a different way to write angles, called &#8220;radians&#8221;, which you might have heard of. For ease of explanation, we&#8217;ll just use degrees &#8211; but if you&#8217;re curious: 
 
-[spoiler title=&#8217;What are radians?&#8217; collapse_link=&#8217;false&#8217;]You may remember from your math classes that the circumference of a circle is equal to its radius, multiplied with 2 π, or in equation form:
+You may remember from your math classes that the circumference of a circle is equal to its radius, multiplied with 2 π, or in equation form:
 
 <p style="text-align: center;">
   c = 2 π r
@@ -83,7 +83,7 @@ Let&#8217;s look at the right part of it first. On this graph, the X axis (the 
 
 Think of radians simply as the length of circumference, relative to the circle&#8217;s radius, you get at a circle section of that angle. As you can see in the animation above, at 360°, the radian value is exactly = 2 π, which is exactly the value for the circumference of a full circle. If we only take a half circle, i.e. a 180° angle, the radian value is half that = π.
 
-Some functions in UE4 use radian input instead of degrees, and for some others (such as the trigonometric functions like sine, cosine, and tangent) there are two versions &#8211; one for degrees, and one for radians. Just something to be aware of![/spoiler]
+Some functions in UE4 use radian input instead of degrees, and for some others (such as the trigonometric functions like sine, cosine, and tangent) there are two versions &#8211; one for degrees, and one for radians. Just something to be aware of!
 
 So, what interests us here is purely the vertical movement on the Y-axis over time. Sine functions are a great way to create cyclical motion, and that&#8217;s exactly what we want. Take a look at how it looks if you animate a point using just a sine wave:
 

@@ -185,7 +185,12 @@ categories:
 tags:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
+collections:
+  games:
+    output: true
+    permalink: /games/:path/
+  
+  # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
 #     - categories

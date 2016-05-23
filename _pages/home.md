@@ -27,7 +27,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_label: "Learn More"
 intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @InBroadStrokes](https://twitter.com/InBroadStrokes){: .btn .btn--twitter}'
+  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @InBroadStrokes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}

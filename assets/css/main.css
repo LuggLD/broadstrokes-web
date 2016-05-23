@@ -879,6 +879,8 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
 .page__related-title { margin-bottom: 10px; font-size: 0.75em; text-transform: uppercase; }
 
 /* ========================================================================== ARCHIVE ========================================================================== */
+.clearfix { overflow: auto; zoom: 1; }
+
 .archive { margin-bottom: 2em; }
 @media (min-width: 48em) { .archive { width: 100%; float: left; margin-left: 0; margin-right: 0; } }
 @media (min-width: 64em) { .archive { width: 83.05085%; float: right; margin-right: 0; padding-left: 4.23729%; } }

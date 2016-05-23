@@ -2,6 +2,11 @@
    ARCHIVE
    ========================================================================== */
 
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+
 .archive {
   margin-bottom: 2em;
 
