@@ -49,7 +49,7 @@
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
   {% else %}
     {% if page.header.credit %}
-      <span class="page__hero-caption">Photo credit: <strong><a class="meta" href="{{ page.header.creditlink }}">{{ page.header.credit }}</a></strong></span>
+      <span class="page__hero-caption">Image credit: <strong><a class="meta" href="{{ page.header.creditlink }}">{{ page.header.credit }}</a></strong></span>
     {% endif %}
   {% endif %}
 </div>

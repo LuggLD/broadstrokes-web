@@ -11,10 +11,10 @@ title                    : 'Broad Strokes'
 title_separator          : "-"
 name                     : "Jan Kaluza"
 description              : "Gamnes & Stuff by Jan Kaluza"
-url                      : "http://www.broad-strokes.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #"http://www.broad-strokes.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
-teaser                   : 500x300.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : features/feature-default.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 150
 comments:
@@ -40,6 +40,10 @@ facebook:
   username               : "broadstrokes"
   app_id                 :
   publisher              :
+google_plus              : "broadstrokesgames"
+youtube                  : "broadstrokesgames"
+tumblr                   : "broadstrokesdev"
+
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles

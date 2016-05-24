@@ -165,6 +165,15 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
 
+  li a {
+    text-decoration: none;
+    border: none;
+    
+    &:hover {
+      color: $bs-accent;
+    }
+  }
+
   @include breakpoint($large) {
     display: block;
     position: relative;

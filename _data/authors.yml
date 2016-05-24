@@ -1,7 +1,27 @@
 Jan:
-  name: "Jan Kaluza"
-  uri: "http://www.broad-strokes.com"
-  email: "jan@broad-strokes.com"
-  bio: "Freelance game developer. Well-caffeinated. Likes thunderstorms, cats, and scotch."
-  avatar: "jan-beach-th.jpg" 
-  twitter: "JKashaar"
+  name             : "Jan Kaluza"
+  email            : "jan@broad-strokes.com"
+  bio              : "Freelance game developer. Well-caffeinated. Likes thunderstorms, cats, and scotch."
+  avatar           : "jan-beach-th.jpg" 
+  twitter          : "JKashaar"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : broadstrokes
+  foursquare       :
+  github           :
+  google_plus      : broadstrokesgames
+  keybase          :
+  instagram        : 
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           : broadstrokesdev
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : broadstrokesgames

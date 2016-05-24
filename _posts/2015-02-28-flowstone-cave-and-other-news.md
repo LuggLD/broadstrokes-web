@@ -6,6 +6,9 @@ author: Jan
 layout: single
 guid: http://www.broad-strokes.com/?p=347
 permalink: /2015-02/flowstone-cave-and-other-news/
+header:
+  image: features/flowstonecave.jpg
+  teaser: features/flowstonecave-th.jpg
 categories:
   - Dev Blog
 tags:

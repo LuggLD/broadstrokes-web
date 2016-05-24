@@ -1,11 +1,15 @@
 ---
-id: 449
 title: Space Cats!
 date: 2016-04-01T01:40:21+00:00
 author: Jan
 layout: single
 guid: http://www.broad-strokes.com/?p=449
 permalink: /2016-04/space-cats/
+header:
+  image: features/spacecat.jpg
+  teaser: features/spacecat-th.jpg
+  credit: amyscreativecorner
+  creditlink: https://www.etsy.com/shop/amyscreativecorner
 categories:
   - Dev Blog
 ---

@@ -6,6 +6,8 @@ author: Jan
 layout: single
 guid: http://www.broad-strokes.com/?p=438
 permalink: /2015-11/over-9000-swords-for-ue4-and-unity-now-available-free-demo/
+header:
+  teaser: features/over9000swords-th.jpg
 categories:
   - Dev Blog
 ---
