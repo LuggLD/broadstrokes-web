@@ -245,9 +245,10 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 .icon { display: inline-block; fill: currentColor; width: 1em; height: 1.1em; line-height: 1; position: relative; top: -0.1em; vertical-align: middle; }
 
 .social-icons .fa { color: #000; display: initial; }
+.social-icons .fa-envelope-square { color: #fa9b39; }
 .social-icons .fa-behance, .social-icons .fa-behance-square { color: #1769FF; }
 .social-icons .fa-dribbble { color: #ea4c89; }
-.social-icons .fa-facebook, .social-icons .fa-facebook-square { color: #3b5998; }
+.social-icons .fa-facebook, .social-icons .fa-facebook-square { color: #718dc8; }
 .social-icons .fa-flickr { color: #ff0084; }
 .social-icons .fa-foursquare { color: #0072b1; }
 .social-icons .fa-github, .social-icons .fa-github-alt, .social-icons .fa-github-square { color: #171516; }
@@ -259,11 +260,12 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 .social-icons .fa-rss, .social-icons .fa-rss-square { color: #fa9b39; }
 .social-icons .fa-soundcloud { color: #ff3300; }
 .social-icons .fa-stack-exchange, .social-icons .fa-stack-overflow { color: #fe7a15; }
-.social-icons .fa-tumblr, .social-icons .fa-tumblr-square { color: #32506d; }
+.social-icons .fa-tumblr, .social-icons .fa-tumblr-square { color: #5483b1; }
+.social-icons .fa-twitch, .social-icons .fa-twitch-square { color: #a992d4; margin-left: -1px; }
 .social-icons .fa-twitter, .social-icons .fa-twitter-square { color: #55acee; }
 .social-icons .fa-vimeo, .social-icons .fa-vimeo-square { color: #1ab7ea; }
 .social-icons .fa-vine { color: #00bf8f; }
-.social-icons .fa-youtube, .social-icons .fa-youtube-square, .social-icons .fa-youtube-play { color: #bb0000; }
+.social-icons .fa-youtube, .social-icons .fa-youtube-square, .social-icons .fa-youtube-play { color: #ff3c3c; }
 .social-icons .fa-xing, .social-icons .fa-xing-square { color: #006567; }
 
 /* Navicons ========================================================================== */

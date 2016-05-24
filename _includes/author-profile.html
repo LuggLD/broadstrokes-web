@@ -82,6 +82,9 @@
       {% if author.youtube %}
         <li><a href="https://www.youtube.com/{{ author.youtube }}"><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a></li>
       {% endif %}
+      {% if author.twitch %}
+        <li><a href="https://www.twitch.tv/{{ author.twitch }}"><i class="fa fa-fw fa-twitch" aria-hidden="true"></i> Twitch</a></li>
+      {% endif %}
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fa fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
       {% endif %}

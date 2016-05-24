@@ -187,6 +187,10 @@ body:hover .visually-hidden button {
     display: initial;
   }
 
+  .fa-envelope-square {
+    color: #fa9b39;
+  }
+
   .fa-behance,
   .fa-behance-square {
     color: $behance-color;
@@ -198,7 +202,7 @@ body:hover .visually-hidden button {
 
   .fa-facebook,
   .fa-facebook-square {
-    color: $facebook-color;
+    color: lighten($facebook-color, 20%);
   }
 
   .fa-flickr {
@@ -256,7 +260,13 @@ body:hover .visually-hidden button {
 
   .fa-tumblr,
   .fa-tumblr-square {
-    color: $tumblr-color;
+    color: lighten($tumblr-color, 20%);
+  }
+
+  .fa-twitch,
+  .fa-twitch-square {
+    color: lighten($twitch-color, 25%);
+    margin-left: -1px;
   }
 
   .fa-twitter,
@@ -276,7 +286,7 @@ body:hover .visually-hidden button {
   .fa-youtube,
   .fa-youtube-square,
   .fa-youtube-play {
-    color: $youtube-color;
+    color: lighten($youtube-color, 25%);
   }
 
   .fa-xing,
