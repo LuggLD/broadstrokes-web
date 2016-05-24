@@ -66,19 +66,19 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Jan Kaluza"
-  avatar           : "/images/jan-portrait1.png"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  avatar           : "jan-beach-th.jpg" 
+  bio              : "Freelance game developer. Well-caffeinated. Likes thunderstorms, cats, and scotch."
+  location         : "Germany"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "broadstrokes"
   foursquare       :
   github           :
-  google_plus      :
+  google_plus      : "broadstrokesgames"
   keybase          :
   instagram        :
   lastfm           :
@@ -87,12 +87,12 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
-  twitter          :
+  tumblr           : "broadstrokesdev"
+  twitter          : "JKashaar"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "broadstrokesgames"
 
 
 # Reading Files
