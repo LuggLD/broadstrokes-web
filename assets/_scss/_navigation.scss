@@ -117,9 +117,7 @@
       a {
         border-top-right-radius: $border-radius;
         border-bottom-right-radius: $border-radius;
-        @include breakpoint($large) {
-            border-left-width: 0px;
-        }
+        border-left-width: 1px;
       }
     }
   }
