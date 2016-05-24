@@ -47,15 +47,15 @@ Not on your watch.
   <figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/games/n-o-r-e-d-the-war-on-christmas/highres_sshot_6/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="HighRes_SShot_6" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="HighRes_SShot_6" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/games/n-o-r-e-d-the-war-on-christmas/highres_sshot_4/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="HighRes_SShot_4" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="HighRes_SShot_4" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/games/n-o-r-e-d-the-war-on-christmas/highres_sshot_3/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="HighRes_SShot_3" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="HighRes_SShot_3" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure>
 </div>
 

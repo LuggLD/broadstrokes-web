@@ -27,27 +27,27 @@ Explore the temple and manipulate arcane machinery! Can you solve the riddles th
   <figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/2014-12/euclidia/zrlf4bo/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/ZRlF4BO-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="ZRlF4BO" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/ZRlF4BO-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/ZRlF4BO-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/12/ZRlF4BO.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/ZRlF4BO-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="ZRlF4BO" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/ZRlF4BO-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/ZRlF4BO-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/2014-12/euclidia/bngy0fl/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Bngy0fL-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Bngy0fL" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Bngy0fL-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Bngy0fL-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Bngy0fL.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Bngy0fL-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Bngy0fL" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Bngy0fL-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Bngy0fL-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/2014-12/euclidia/n2aaswx/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/N2AaSwX-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="N2AaSwX" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/N2AaSwX-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/N2AaSwX-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/12/N2AaSwX.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/N2AaSwX-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="N2AaSwX" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/N2AaSwX-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/N2AaSwX-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/2014-12/euclidia/rk36okh/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Rk36oKH-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Rk36oKH" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Rk36oKH-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Rk36oKH-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Rk36oKH.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Rk36oKH-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Rk36oKH" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Rk36oKH-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/Rk36oKH-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/2014-12/euclidia/vlgatso/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/VLGAtSO-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="VLGAtSO" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/VLGAtSO-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/VLGAtSO-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/12/VLGAtSO.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/VLGAtSO-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="VLGAtSO" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/VLGAtSO-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/VLGAtSO-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/2014-12/euclidia/h6enban/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/h6eNban-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="h6eNban" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/h6eNban-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/h6eNban-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/12/h6eNban.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/h6eNban-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="h6eNban" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/h6eNban-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/h6eNban-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure>
 </div>
 

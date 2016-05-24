@@ -27,19 +27,19 @@ As I described it once, in a sleep-deprived state: &#8220;In short, it&#8217;s a
   <figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/games/fifty-shades-of-heyyyyy/heyyyyy-shot4/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot4" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot4.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot4" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/games/fifty-shades-of-heyyyyy/heyyyyy-shot3/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot3" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot3.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot3" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/games/fifty-shades-of-heyyyyy/heyyyyy-shot2/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot2" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot2.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot2" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/games/fifty-shades-of-heyyyyy/heyyyyy-shot1/#main'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot1" /></a>
+    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot1" /></a>
   </div></figure>
 </div>
 
