@@ -4,7 +4,6 @@ title: Memory Error
 date: 2015-01-21T22:15:17+00:00
 author: Jan
 layout: page
-gamejam: true
 guid: http://www.broad-strokes.com/?page_id=244
 header:
   image: features/memoryerror.jpg
@@ -12,7 +11,7 @@ header:
 ---
 ### Submission to UE4 January Gamejam: &#8220;Back to Square One&#8221;
 
-[<img class="alignnone wp-image-319 size-large" title=" " src="http://www.broad-strokes.com/wordpress/wp-content/uploads/2015/01/memoryerror-1024x576.jpg" alt="" width="640" height="360" srcset="http://www.broad-strokes.com/wordpress/wp-content/uploads/2015/01/memoryerror-1024x576.jpg 1024w, http://www.broad-strokes.com/wordpress/wp-content/uploads/2015/01/memoryerror-300x169.jpg 300w, http://www.broad-strokes.com/wordpress/wp-content/uploads/2015/01/memoryerror.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />](http://www.broad-strokes.com/wordpress/wp-content/uploads/2015/01/memoryerror.jpg)
+[<img class="alignnone wp-image-319 size-large" title=" " src="http://www.broad-strokes.com/images/wp-content/uploads/2015/01/memoryerror-1024x576.jpg" alt="" width="640" height="360" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2015/01/memoryerror-1024x576.jpg 1024w, http://www.broad-strokes.com/images/wp-content/uploads/2015/01/memoryerror-300x169.jpg 300w, http://www.broad-strokes.com/images/wp-content/uploads/2015/01/memoryerror.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />](http://www.broad-strokes.com/images/wp-content/uploads/2015/01/memoryerror.jpg)
 
 ## Download:
 

@@ -300,11 +300,17 @@ body:hover .visually-hidden button {
    Navicons
    ========================================================================== */
 
+#site-nav button {
+  background: $bs-text;
+  color: darken($bs-background, 20%);
+}
+
 .navicon {
   position: relative;
   width: $navicon-width;
   height: $navicon-height;
-  background: #fff;
+  background: $bs-background;
+  //color: darken($bs-background, 20%);
   margin: auto;
   transition: 0.3s;
 
@@ -315,7 +321,7 @@ body:hover .visually-hidden button {
     left: 0;
     width: $navicon-width;
     height: $navicon-height;
-    background: #fff;
+    background: $bs-background;
     transition: 0.3s;
   }
 

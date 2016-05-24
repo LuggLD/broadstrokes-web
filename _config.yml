@@ -209,6 +209,9 @@ collections:
   games:
     output: true
     permalink: /games/:path/
+  gamejams:
+    output: true
+    permalink: /games/gamejams/:path/
   tools:
     output: true
     permalink: /tools/:path/

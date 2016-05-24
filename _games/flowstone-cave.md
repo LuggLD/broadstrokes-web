@@ -5,7 +5,6 @@ date: 2015-02-19T18:10:04+00:00
 author: Jan
 layout: page
 guid: http://www.broad-strokes.com/?page_id=302
-featuredgame: true
 hidedate: true
 header:
   image: features/flowstonecave.jpg

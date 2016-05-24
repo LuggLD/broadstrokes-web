@@ -12,18 +12,14 @@ guid: http://www.broad-strokes.com/?page_id=62
 
 <div class="grid__wrapper">
   {% for post in site.games reversed %}
-    {% if post.featuredgame %}
-      {% include archive-single.html type="grid" %}
-    {% endif %}
+    {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
 
 <h2>Gamejams</h2>
 
 <div class="grid__wrapper">
-  {% for post in site.games reversed %}
-    {% if post.gamejam %}
-      {% include archive-single.html type="grid" %}
-    {% endif %}
+  {% for post in site.gamejams reversed %}
+    {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
