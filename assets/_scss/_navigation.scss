@@ -81,21 +81,24 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      color: darken($bs-background, 20%);
+      border: 1px solid $bs-background;
       border-radius: 0;
+      background-color: $bs-text;
 
       &:hover {
-        color: $link-color-hover;
+//        color: $link-color-hover;
+        background-color: $bs-accent;
       }
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        background: $bs-accent !important;
       }
 
       &.disabled {
-        color: $light-gray;
+        color: darken($bs-secondary, 30%);
+        background-color: $bs-secondary;
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -112,6 +115,7 @@
 
     &:last-child {
       a {
+        border-left-width: 0px;
         border-top-right-radius: $border-radius;
         border-bottom-right-radius: $border-radius;
       }
@@ -123,18 +127,22 @@
     display: block;
     padding: 1em 2em;
     float: left;
-    width: 50%;
+    width: 40%;
+    height: inherit;
     font-family: $sans-serif;
     font-size: $type-size-5;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 25%);
-    border: 1px solid $light-gray;
-    border-radius: $border-radius;
+    color: darken($bs-background, 20%);
+    border: 1px solid $bs-background;
+    border-radius: $border-radius+6px;
+    background-color: $bs-text;
+    //margin: 0 0.25em;
 
     &:hover {
-      color: $link-color-hover;
+      background-color: $bs-accent;
+      border-bottom: 1px solid $bs-background;
     }
 
     &:first-child {
@@ -149,7 +157,8 @@
     }
 
     &.disabled {
-      color: $light-gray;
+      color: darken($bs-secondary, 15%);
+      background-color: lighten($bs-secondary, 15%);
       pointer-events: none;
       cursor: not-allowed;
     }

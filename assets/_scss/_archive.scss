@@ -180,6 +180,10 @@ a:hover {
   margin-bottom: 2em;
   font-size: 1.25rem;
 
+  h2.archive__item-title {
+    margin-top: 0px;
+  }
+
   @include breakpoint($small) {
     margin-bottom: 0;
     text-align: center;
