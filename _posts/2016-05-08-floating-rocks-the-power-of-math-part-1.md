@@ -173,3 +173,5 @@ Well, that&#8217;s it for this first part, folks! Part 2 will deal with the big 
 I hope you found this tutorial useful! If you have a moment, please feel free leave me some feedback in the comments &#8211; not sure if I went too in-depth here, or not in-depth enough&#8230; but I hope I managed to strike a good balance. If this tutorial taught you anything, you could also do me a solid and click one of those share buttons below!
 
 Till next time!
+
+Update: Part 2 is available! Read it [here](/2016-05/make-floating-rocks-with-the-power-of-math-part-2/).

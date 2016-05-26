@@ -50,7 +50,7 @@ tags:
 ---
 Welcome back, everyone! This is part 2 of my tutorial mini-series about how to make things move nicely using your awesome powers of math! ([See part 1 here](http://www.broad-strokes.com/2016-05/floating-rocks-the-power-of-math-part-1/))
 
-As with part 1 of this series, I&#8217;m going to assume that you know at least the basics of Unreal Engine Blueprints already &#8211; if not, check out this official <a href="https://www.youtube.com/watch?v=cRhWc2kAhqI&list=PLZlv_N0_O1gbYMYfhhdzfW1tUV4jU0YxH&index=1" target="_blank">video tutorial series</a> by the Unreal Engine team, which should get you started! And since I only just set it up a few days ago: If you want me to keep you up-to-date with new tutorials I release, why don&#8217;t you subscribe to my [mailing list](http://www.broad-strokes.com/mailing-list/)? You&#8217;ll get notified when I post cool new tutorials
+As with part 1 of this series, I&#8217;m going to assume that you know at least the basics of Unreal Engine Blueprints already &#8211; if not, check out this official <a href="https://www.youtube.com/watch?v=cRhWc2kAhqI&list=PLZlv_N0_O1gbYMYfhhdzfW1tUV4jU0YxH&index=1" target="_blank">video tutorial series</a> by the Unreal Engine team, which should get you started! And since I only just set it up a few days ago: If you want me to keep you up-to-date with new tutorials I release, why don&#8217;t you subscribe to my [mailing list](http://www.broad-strokes.com/mailing-list/)? You&#8217;ll get notified when I post cool new tutorials or other interesting stuff!
 
 Just to catch you up, I&#8217;m using this asset here to demonstrate a few simple ways of how to animate something using only blueprints and math:
 
