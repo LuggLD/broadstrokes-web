@@ -4,32 +4,28 @@
 
 $(document).ready(function(){
 
+  // Sticky footer
+  var bumpIt = function() {
+      $('body').css('margin-bottom', $('.page__footer').outerHeight(true));
+    },
+    didResize = false;
+
+  bumpIt();
+
+  $(window).resize(function() {
+    didResize = true;
+  });
+  setInterval(function() {
+    if(didResize) {
+      didResize = false;
+      bumpIt();
+    }
+  }, 250);
+
   // FitVids init
   $("#main").fitVids();
 
-  // init sticky sidebar
-  $(".sticky").Stickyfill();
-
-  var stickySideBar = function(){
-    var windowWidth = $(window).width();
-    if (windowWidth > 1024) {
-      // fix
-      Stickyfill.rebuild();
-      Stickyfill.init();
-    } else {
-      // unfix
-      Stickyfill.stop();
-    }
-  };
-
-  stickySideBar();
-
-  $(window).resize(function(){
-    stickySideBar();
-  });
-
   // Follow menu drop down
-
   $(".author__urls-wrapper button").on("click", function() {
     $(".author__urls").fadeToggle("fast", function() {});
     $(".author__urls-wrapper button").toggleClass("open");
@@ -43,12 +39,12 @@ $(document).ready(function(){
 
   // Magnific-Popup options
   $(".image-popup").magnificPopup({
-    disableOn: function() {
-      if( $(window).width() < 500 ) {
-        return false;
-      }
-      return true;
-    },
+    // disableOn: function() {
+    //   if( $(window).width() < 500 ) {
+    //     return false;
+    //   }
+    //   return true;
+    // },
     type: 'image',
     tLoading: 'Loading image #%curr%...',
     gallery: {

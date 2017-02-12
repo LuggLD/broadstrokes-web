@@ -7,8 +7,8 @@ layout: single
 guid: http://www.broad-strokes.com/?p=383
 permalink: /2015-08/over-9000-swords-modular-weapon-system-coming-soon/
 header:
-  image: features/over9000swords2.jpg
-  teaser: features/over9000swords2-th.jpg
+  image: /images/features/over9000swords2.jpg
+  teaser: /images/features/over9000swords2-th.jpg
 categories:
   - Dev Blog
 tags:

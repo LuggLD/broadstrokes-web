@@ -6,8 +6,8 @@ author: Jan
 layout: page
 guid: http://www.broad-strokes.com/?page_id=244
 header:
-  image: features/memoryerror.jpg
-  teaser: features/memoryerror-th.jpg
+  image: /images/features/memoryerror.jpg
+  teaser: /images/features/memoryerror-th.jpg
 ---
 ### Submission to UE4 January Gamejam: &#8220;Back to Square One&#8221;
 

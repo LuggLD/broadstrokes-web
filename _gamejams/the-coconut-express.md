@@ -6,8 +6,8 @@ author: Jan
 layout: page
 guid: http://www.broad-strokes.com/?page_id=129
 header:
-  image: features/coconutexpress.jpg
-  teaser: features/coconutexpress-th.jpg
+  image: /images/features/coconutexpress.jpg
+  teaser: /images/features/coconutexpress-th.jpg
 ---
 ### Winning Game of Epic Games&#8217; &#8220;Two Birds with One Stone&#8221; November Unreal Engine Gamejam
 

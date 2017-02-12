@@ -6,8 +6,8 @@ author: Jan
 layout: page
 guid: http://www.broad-strokes.com/?page_id=225
 header:
-  image: features/euclidia.jpg
-  teaser: features/euclidia-th.jpg
+  image: /images/features/euclidia.jpg
+  teaser: /images/features/euclidia-th.jpg
 ---
 ### Submission to UE4 December Gamejam: &#8220;What&#8217;s in the box?&#8221;
 

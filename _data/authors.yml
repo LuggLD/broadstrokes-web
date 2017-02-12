@@ -2,7 +2,7 @@ Jan:
   name             : "Jan Kaluza"
   email            : "jan@broad-strokes.com"
   bio              : "Freelance game developer. Well-caffeinated. Likes thunderstorms, cats, and scotch."
-  avatar           : "jan-beach-th.jpg" 
+  avatar           : "/images/jan-beach-th.jpg" 
   location         : "Germany"
   twitter          : "JKashaar"
   bitbucket        :
@@ -14,7 +14,7 @@ Jan:
   github           :
   google_plus      : "broadstrokesgames"
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         :
   pinterest        :

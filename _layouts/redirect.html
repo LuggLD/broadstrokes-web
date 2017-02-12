@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+  <meta charset="utf-8">
+  <title>Redirecting…</title>
+  <link rel="canonical" href="{{ page.redirect.to }}">
+  <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+</head>
+<body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+  <h1>Redirecting…</h1>
+  <a href="{{ page.redirect.to }}">Click here if you are not redirected.</a>
+  <script>location="{{ page.redirect.to }}"</script>
+</body>
+</html>

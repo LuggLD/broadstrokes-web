@@ -7,45 +7,45 @@ layout: single
 guid: http://www.broad-strokes.com/?p=453
 permalink: /2016-05/floating-rocks-the-power-of-math-part-1/
 header:
-  image: wp-content/uploads/2016/05/og-image.jpg
-  teaser: wp-content/uploads/2016/05/og-image.jpg
+  image: /images/wp-content/uploads/2016/05/og-image.jpg
+  teaser: /images/wp-content/uploads/2016/05/og-image.jpg
 enclosure:
   - |
     |
         http://www.broad-strokes.com/images/wp-content/uploads/2016/05/SwivelDemo.webm
         95890
         video/webm
-        
+
   - |
     |
         http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopRock-Textured.webm
         1600715
         video/webm
-        
+
   - |
     |
         http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopRock-Textured-Faster.webm
         282902
         video/webm
-        
+
   - |
     |
         http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopRock-Textured.mp4
         2035149
         video/mp4
-        
+
   - |
     |
         http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopRock-Textured-Faster.mp4
         450566
         video/mp4
-        
+
   - |
     |
         http://www.broad-strokes.com/images/wp-content/uploads/2016/05/SwivelDemo.mp4
         825232
         video/mp4
-        
+
 categories:
   - Tutorials
 tags:
@@ -73,7 +73,7 @@ Normal speed:
 Here&#8217;s the same thing at 8x speed, so you can see it better:
 
 <video controls="controls" width="500" height="700"><source src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopRock-Textured-Faster.webm" type="video/webm" /><source src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopRock-Textured-Faster.mp4" type="video/mp4" />Your browser does not support the video tag.</video>
-  
+
 Let&#8217;s pick it apart then, shall we? 🙂 As you can see in the sped-up version of the video, the rotation of that rock is basically a **swivel motion**, combined with some **vertical bobbing**. The swiveling is more interesting, so let&#8217;s tackle that first!
 
 ## Swivel those rocks!

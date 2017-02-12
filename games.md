@@ -10,8 +10,18 @@ guid: http://www.broad-strokes.com/?page_id=62
 
 {% include base_path %}
 
+<h2>In Development</h2>
+
 <div class="grid__wrapper">
   {% for post in site.games reversed %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+
+<h2>Free</h2>
+
+<div class="grid__wrapper">
+  {% for post in site.free reversed %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>

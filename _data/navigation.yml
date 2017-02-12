@@ -1,25 +1,25 @@
 # main links links
 main:
+  - title: "Games"
+    url: /games
+
   - title: "Blog"
     url: /blog
 
   - title: "Tutorials"
     url: /tutorials
 
-  - title: "Games"
-    url: /games
-
 #  - title: "Portfolio"
 #    url: http://portfolio.broad-strokes.com/
-    
+
   - title: "Assets"
     url: /tools
 
   - title: "Support"
     url: /support
-  
-  - title: "About"
-    url: /about
-    
+
+  - title: "Team"
+    url: /team
+
   - title: "Mailing List"
     url: /mailing-list

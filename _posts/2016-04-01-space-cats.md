@@ -6,8 +6,8 @@ layout: single
 guid: http://www.broad-strokes.com/?p=449
 permalink: /2016-04/space-cats/
 header:
-  image: features/spacecat.jpg
-  teaser: features/spacecat-th.jpg
+  image: /images/features/spacecat.jpg
+  teaser: /images/features/spacecat-th.jpg
   credit: amyscreativecorner
   creditlink: https://www.etsy.com/shop/amyscreativecorner
 categories:

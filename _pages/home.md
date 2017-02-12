@@ -4,7 +4,7 @@ permalink: /
 date:
 header:
   overlay_color: "#5e616c"
-  overlay_image: wp-content/uploads/2015/01/coconuts-landscape-1912x657.jpg
+  overlay_image: images/wp-content/uploads/2015/01/coconuts-landscape-1912x657.jpg
   caption:
 excerpt: 'Games and Stuff by Jan Kaluza'
 feature_row:

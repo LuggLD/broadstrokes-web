@@ -7,39 +7,39 @@ layout: single
 guid: http://www.broad-strokes.com/?p=479
 permalink: /2016-05/make-floating-rocks-with-the-power-of-math-part-2/
 header:
-  teaser: features/sine-vertical.gif
-  image: wp-content/uploads/2016/05/og-image.jpg
+  teaser: /images/features/sine-vertical.gif
+  image: /images/wp-content/uploads/2016/05/og-image.jpg
 enclosure:
   - |
     |
         http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopRock-Textured-Faster.webm
         282902
         video/webm
-        
+
   - |
     |
         http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopRock-Textured-Faster.mp4
         450566
         video/mp4
-        
+
   - |
     |
         http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopRock-Textured-BobOnly.webm
         1487874
         video/webm
-        
+
   - |
     |
         http://www.broad-strokes.com/images/wp-content/uploads/2016/05/Vector-3D-Widgets.webm
         328034
         video/webm
-        
+
   - |
     |
         http://www.broad-strokes.com/images/wp-content/uploads/2016/05/Vector-3D-Widgets.mp4
         1167884
         video/mp4
-        
+
 categories:
   - Tutorials
 tags:
@@ -76,7 +76,7 @@ As always, illustrations help! Did you know that sine functions can be expresse
 
 <img class="alignnone size-full wp-image-554" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sine-circle.gif" alt="sine-circle" width="480" height="145" />
 
-Let&#8217;s look at the right part of it first. On this graph, the X axis (the horizontal one), tracks the rotation angle. If you&#8217;re curious about the π stuff, don&#8217;t worry about that for now &#8211; that&#8217;s a different way to write angles, called &#8220;radians&#8221;, which you might have heard of. For ease of explanation, we&#8217;ll just use degrees &#8211; but if you&#8217;re curious: 
+Let&#8217;s look at the right part of it first. On this graph, the X axis (the horizontal one), tracks the rotation angle. If you&#8217;re curious about the π stuff, don&#8217;t worry about that for now &#8211; that&#8217;s a different way to write angles, called &#8220;radians&#8221;, which you might have heard of. For ease of explanation, we&#8217;ll just use degrees &#8211; but if you&#8217;re curious:
 
 You may remember from your math classes that the circumference of a circle is equal to its radius, multiplied with 2 π, or in equation form:
 
@@ -162,7 +162,7 @@ The second part of making parts of your Blueprint adjustable like that is to do
 
 So how do we do this bobbing thing in UE4 then? Simple! We are going to re-use a lot of the things we learned in [part one](http://www.broad-strokes.com/2016-05/floating-rocks-the-power-of-math-part-1/) for this. First off, let me show you the part of our Blueprint that is responsible for the bobbing movement. This is the relevant part of the Tick event:<figure id="attachment_600" style="width: 792px" class="wp-caption alignnone">
 
-[<img class="wp-image-600 size-large" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/BobbingFull-1-1024x270.png" alt="BobbingFull" width="792" height="209" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/BobbingFull-1-1024x270.png 1024w, http://www.broad-strokes.com/images/wp-content/uploads/2016/05/BobbingFull-1-300x79.png 300w, http://www.broad-strokes.com/images/wp-content/uploads/2016/05/BobbingFull-1-768x203.png 768w" sizes="(max-width: 792px) 100vw, 792px" />](http://www.broad-strokes.com/images/wp-content/uploads/2016/05/BobbingFull-1.png)<figcaption class="wp-caption-text">Click to enlarge!</figcaption></figure> 
+[<img class="wp-image-600 size-large" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/BobbingFull-1-1024x270.png" alt="BobbingFull" width="792" height="209" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/BobbingFull-1-1024x270.png 1024w, http://www.broad-strokes.com/images/wp-content/uploads/2016/05/BobbingFull-1-300x79.png 300w, http://www.broad-strokes.com/images/wp-content/uploads/2016/05/BobbingFull-1-768x203.png 768w" sizes="(max-width: 792px) 100vw, 792px" />](http://www.broad-strokes.com/images/wp-content/uploads/2016/05/BobbingFull-1.png)<figcaption class="wp-caption-text">Click to enlarge!</figcaption></figure>
 
 Don&#8217;t worry, it looks more complicated than it is, and we&#8217;re going to pick through it bit by bit. If you ever find yourself looking at a Blueprint and wondering what the hell is even going on, here&#8217;s a useful tip for you: most Blueprints can be best understood by working backwards! Start at the executable functions (the ones with the white &#8220;execution wires&#8221; going into and out of them), which tell you WHAT is being done. Most of the time, those have really helpful tooltips too, if you hover your mouse over them and their variables. Think of executable (also known as &#8220;impure&#8221;) functions as one line of code. They basically say: &#8220;And now, do this!&#8221; Any wires that go into these functions &#8216;only&#8217; specify HOW that function is supposed to do its job.
 

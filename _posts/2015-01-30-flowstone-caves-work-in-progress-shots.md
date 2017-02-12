@@ -7,8 +7,8 @@ layout: single
 guid: http://www.broad-strokes.com/?p=270
 permalink: /2015-01/flowstone-caves-work-in-progress-shots/
 header:
-  teaser: features/flowstonecave-wip-th.jpg
-  image: features/flowstonecave-wip.jpg
+  teaser: /images/features/flowstonecave-wip-th.jpg
+  image: /images/features/flowstonecave-wip.jpg
 categories:
   - Dev Blog
 tags:

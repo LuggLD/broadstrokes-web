@@ -5,8 +5,8 @@ author: Jan
 layout: single
 permalink: /2016-05/major-site-maintenance-complete/
 header:
-  image: features/construction.jpg
-  teaser: features/construction-th.jpg
+  image: /images/features/construction.jpg
+  teaser: /images/features/construction-th.jpg
   credit: vonderauvisuals
   creditlink: https://www.flickr.com/photos/vonderauvisuals/
 ---
