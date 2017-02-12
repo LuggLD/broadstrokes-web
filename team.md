@@ -10,6 +10,9 @@ redirect_from: /about/
 
 <img src="/images/jan-portrait1.png" style="float: left" >
 
+&nbsp;
+
+&nbsp;
 
 ## Jan Kaluza
 
@@ -19,6 +22,8 @@ Jan is the stereotype of self-sufficient developer, competent in programming, de
 &nbsp;
 
 <img src="/images/remi-portrait.png" style="float: right" >
+
+&nbsp;
 
 &nbsp;
 
