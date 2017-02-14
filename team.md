@@ -16,7 +16,7 @@ redirect_from: /about/
 
 ## Jan Kaluza
 
-Jan is the stereotype of self-sufficient developer, competent in programming, design, and art. After an early start into game development via the original Unreal Tournament's level design scene, his path led him on a few detours. An attempted career as a rock star and many years of extensive studies as a cultural anthropologist later, he said "Nah, fuck that noise" and went back to making games instead.
+Jan is the stereotype of self-sufficient developer, competent in programming, design, and art. After an early start into game development via the original Unreal Tournament's level design scene, his path led him on a few detours. An attempted career as a rock star and many years of extensive studies as a cultural anthropologist later, he said "Hmm, nah!" and went back to making games instead.
 
 <a href="https://twitter.com/JKashaar" target="_blank">Twitter</a>
 
