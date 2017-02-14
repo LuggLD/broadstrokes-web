@@ -11,7 +11,11 @@ title                    : 'Broad Strokes'
 title_separator          : "-"
 name                     : "Jan Kaluza"
 description              : "Independent Game Development Team"
+<<<<<<< HEAD
 url                      : "http://www.broad-strokes.com"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+=======
+url                      : # "http://www.broad-strokes.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+>>>>>>> cc62ddf0dd262dbff43d03eb13ff83e6ff3944cf
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : /images/features/feature-default.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
