@@ -74,7 +74,7 @@ So, how do we do this? We&#8217;ll need to use our awesome knowledge of sine fu
 
 As always, illustrations help! Did you know that sine functions can be expressed like this?
 
-<img class="alignnone size-full wp-image-554" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sine-circle.gif" alt="sine-circle" width="480" height="145" />
+![sine-circle](http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sine-circle.gif)
 
 Let&#8217;s look at the right part of it first. On this graph, the X axis (the horizontal one), tracks the rotation angle. If you&#8217;re curious about the π stuff, don&#8217;t worry about that for now &#8211; that&#8217;s a different way to write angles, called &#8220;radians&#8221;, which you might have heard of. For ease of explanation, we&#8217;ll just use degrees &#8211; but if you&#8217;re curious:
 
@@ -90,7 +90,7 @@ Some functions in UE4 use radian input instead of degrees, and for some others (
 
 So, what interests us here is purely the vertical movement on the Y-axis over time. Sine functions are a great way to create cyclical motion, and that&#8217;s exactly what we want. Take a look at how it looks if you animate a point using just a sine wave:
 
-<img class="alignnone size-full wp-image-555" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sine-vertical.gif" alt="sine-vertical" width="500" height="236" />
+<img src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sine-vertical.gif" alt="sine-vertical" width="500" height="236" />
 
 The fun begins when you start to layer multiple sine waves with different periods, phases and amplitudes on top of one another, and that&#8217;s just what we&#8217;re going to do! Why, you wonder? Take a look:
 
@@ -98,7 +98,7 @@ The fun begins when you start to layer multiple sine waves with different period
 
 To explain why layering multiple sine wave functions is cool and useful, let&#8217;s do a quick recap on the words we use to describe certain attributes of sine functions.
 
-<img class="alignnone wp-image-550 size-full" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/SineTerms-1.gif" width="996" height="418" />
+<img src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/SineTerms-1.gif" width="996" height="418" />
 
 _**Amplitude**_ is the height of the wave&#8217;s peaks. Perhaps you&#8217;ve also heard this in the context of audio already &#8211; that&#8217;s because sound waves are waves too! And the higher the amplitude, the stronger the pressure in the air that carries the sound, and therefore, the louder the sound. Makes sense, right?
 
@@ -116,25 +116,25 @@ Since we&#8217;re going to need it later, here&#8217;s how you express those at
   For ease of explanation, we&#8217;re going to ignore amplitude and phase for now, and just look at what combining multiple sine functions with different frequencies gets us! Let&#8217;s start with this sine function here:
 </p>
 
-<img class="alignnone wp-image-543 size-full" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sinelayer-wave1.gif" alt="sinelayer-wave1" width="647" height="148" />
+<img src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sinelayer-wave1.gif" alt="sinelayer-wave1" width="647" height="148" />
 
 As you can see, it has a period of about 2.3. Here&#8217;s another sine function:
 
-<img class="alignnone size-full wp-image-544" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sinelayer-wave2.gif" alt="sinelayer-wave2" width="647" height="148" />
+<img src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sinelayer-wave2.gif" alt="sinelayer-wave2" width="647" height="148" />
 
 This one has a much higher period, which is why it looks so much flatter &#8211; its period is about 20.
 
 Now I wonder what happens if we just add the two functions together&#8230;
 
-<img class="alignnone size-full wp-image-545" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sinelayer-wave3.gif" alt="sinelayer-wave3" width="647" height="148" />
+<img src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sinelayer-wave3.gif" alt="sinelayer-wave3" width="647" height="148" />
 
 Can you see what&#8217;s happening? The function with the shorter period looks like it&#8217;s doing some oscillation of its own, in the same pattern as the other function! Let&#8217;s add another one:
 
-<img class="alignnone size-full wp-image-546" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sinelayer-wave4.gif" alt="sinelayer-wave4" width="647" height="148" />
+<img src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sinelayer-wave4.gif" alt="sinelayer-wave4" width="647" height="148" />
 
 The result:
 
-<img class="alignnone size-full wp-image-547" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sinelayer-wave5.gif" alt="sinelayer-wave5" width="647" height="196" />
+<img src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/sinelayer-wave5.gif" alt="sinelayer-wave5" width="647" height="196" />
 
 And now, we&#8217;re getting somewhere! Doesn&#8217;t that already look pretty irregular? There are of course still recognizable peaks and valleys, but it&#8217;s a lot harder to make out the overall repeating pattern now. Which is why we&#8217;re going to use three functions with configurable periods and amplitudes to give our rock a nice, irregular-seeming up-and-down movement.
 
@@ -148,7 +148,7 @@ Before we go on &#8211; Do you want to know how to make these nice little handle
 
 Those are 3D Widgets, which are available for any Vector or Transform variable set as &#8220;editable.&#8221; Just select the variable in the My Blueprint list, and enable the option!
 
-<img class="alignnone size-full wp-image-565" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopMeshLocation-VarDetails.png" alt="TopMeshLocation-VarDetails" width="346" height="541" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopMeshLocation-VarDetails.png 346w, http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopMeshLocation-VarDetails-192x300.png 192w" sizes="(max-width: 346px) 100vw, 346px" />
+<img src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopMeshLocation-VarDetails.png" alt="TopMeshLocation-VarDetails" width="346" height="541" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopMeshLocation-VarDetails.png 346w, http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopMeshLocation-VarDetails-192x300.png 192w" sizes="(max-width: 346px) 100vw, 346px" />
 
 That will create one of those widgets for each such exposed variable. It even works for arrays! With vector widgets, you can only move them, but Transform widgets can be rotated and scaled as well. That can be quite useful when you&#8217;re building tools!
 
@@ -156,7 +156,7 @@ Note that I&#8217;ve also set the &#8220;Advanced Display&#8221; flag for this 
 
 The second part of making parts of your Blueprint adjustable like that is to do something with the value of that 3D Widget&#8217;s vector variable, and in our case that means we have to set our TopMesh to the new default location in the Construction Script, and that&#8217;s all. Whenever a variable in a blueprint is changed, the construction script is executed again, so the location of the Top Mesh component is set to the new relative location the widget was just set to. Just like this:
 
-<img class="alignnone size-full wp-image-566" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopMeshLocation-ConstructionScript.png" alt="TopMeshLocation-ConstructionScript" width="538" height="282" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopMeshLocation-ConstructionScript.png 538w, http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopMeshLocation-ConstructionScript-300x157.png 300w" sizes="(max-width: 538px) 100vw, 538px" />
+<img src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopMeshLocation-ConstructionScript.png" alt="TopMeshLocation-ConstructionScript" width="538" height="282" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopMeshLocation-ConstructionScript.png 538w, http://www.broad-strokes.com/images/wp-content/uploads/2016/05/TopMeshLocation-ConstructionScript-300x157.png 300w" sizes="(max-width: 538px) 100vw, 538px" />
 
 ## Bobbing, coming soon to a UE4 near you!
 
@@ -168,7 +168,7 @@ Don&#8217;t worry, it looks more complicated than it is, and we&#8217;re going t
 
 So then, let&#8217;s start with the &#8220;What&#8221; in this case, and work backwards through the &#8220;How&#8217;s&#8221;!
 
-<img class="alignnone wp-image-562 size-full" src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/Bobbing3.png" width="679" height="418" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/Bobbing3.png 679w, http://www.broad-strokes.com/images/wp-content/uploads/2016/05/Bobbing3-300x185.png 300w" sizes="(max-width: 679px) 100vw, 679px" />
+<img src="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/Bobbing3.png" width="679" height="418" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2016/05/Bobbing3.png 679w, http://www.broad-strokes.com/images/wp-content/uploads/2016/05/Bobbing3-300x185.png 300w" sizes="(max-width: 679px) 100vw, 679px" />
 
 Fairly straightforward, I hope. We add two vectors, &#8220;Top Mesh Location&#8221; and one that we&#8217;re creating right there on the spot (with some more math that we&#8217;ll get to in a bit), and setting that as the new relative location of our floating rock mesh.
 
