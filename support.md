@@ -4,7 +4,7 @@ title: Support
 date: 2015-11-24T02:53:18+00:00
 author: Jan
 layout: single
-guid: http://www.broad-strokes.com/?page_id=431
+guid: https://www.broad-strokes.com/?page_id=431
 permalink: /support/
 sharing_disabled:
   - 1

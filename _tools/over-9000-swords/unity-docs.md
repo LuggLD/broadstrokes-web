@@ -4,7 +4,7 @@ title: 'Over 9000 Swords &#8211; Unity Documentation'
 date: 2015-11-23T19:46:02+00:00
 author: Jan
 layout: page
-guid: http://www.broad-strokes.com/?page_id=423
+guid: https://www.broad-strokes.com/?page_id=423
 ---
 ## Getting Started
 

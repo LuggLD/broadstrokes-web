@@ -4,7 +4,7 @@ title: Over 9000 Swords! Modular Weapon System coming soon
 date: 2015-08-27T22:59:27+00:00
 author: Jan
 layout: single
-guid: http://www.broad-strokes.com/?p=383
+guid: https://www.broad-strokes.com/?p=383
 permalink: /2015-08/over-9000-swords-modular-weapon-system-coming-soon/
 header:
   image: /images/features/over9000swords2.jpg

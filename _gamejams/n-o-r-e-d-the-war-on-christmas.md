@@ -4,14 +4,14 @@ title: 'N.O.R.E.D.: The War On Christmas'
 date: 2014-12-09T03:39:45+00:00
 author: Jan
 layout: page
-guid: http://www.broad-strokes.com/?page_id=155
+guid: https://www.broad-strokes.com/?page_id=155
 header:
   image: /images/features/nored.jpg
   teaser: /images/features/nored-th.jpg
 ---
 ### Submission to Ludum Dare 31: &#8220;Entire Game On One Screen&#8221;
 
-[<img class="alignnone wp-image-158 size-full" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/nored3.jpg" alt="" width="1920" height="1080" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/nored3.jpg 1920w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/nored3-300x169.jpg 300w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/nored3-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />](http://www.broad-strokes.com/images/wp-content/uploads/2014/12/nored3.jpg)
+[<img class="alignnone wp-image-158 size-full" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/12/nored3.jpg" alt="" width="1920" height="1080" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/12/nored3.jpg 1920w, https://www.broad-strokes.com/images/wp-content/uploads/2014/12/nored3-300x169.jpg 300w, https://www.broad-strokes.com/images/wp-content/uploads/2014/12/nored3-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />](https://www.broad-strokes.com/images/wp-content/uploads/2014/12/nored3.jpg)
 
 ## Download:
 
@@ -47,15 +47,15 @@ Not on your watch.
   <figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="HighRes_SShot_6" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="HighRes_SShot_6" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_6-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="HighRes_SShot_4" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="HighRes_SShot_4" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_4-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="HighRes_SShot_3" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="HighRes_SShot_3" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/12/HighRes_SShot_3-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure>
 </div>
 

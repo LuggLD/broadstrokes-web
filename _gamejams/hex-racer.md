@@ -4,14 +4,14 @@ title: Hex Racer
 date: 2014-09-29T16:45:58+00:00
 author: Jan
 layout: page
-guid: http://www.broad-strokes.com/?page_id=77
+guid: https://www.broad-strokes.com/?page_id=77
 header:
   image: /images/features/hexracer.jpg
   teaser: /images/features/hexracer-th.jpg
 ---
 ### Jam entry for Ludum Dare 30
 
-[<img class="alignnone size-full wp-image-80" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/Gloryshot.jpg" alt="Gloryshot" width="1920" height="1080" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/Gloryshot.jpg 1920w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/Gloryshot-300x169.jpg 300w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/Gloryshot-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />](http://www.broad-strokes.com/images/wp-content/uploads/2014/09/Gloryshot.jpg)
+[<img class="alignnone size-full wp-image-80" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/Gloryshot.jpg" alt="Gloryshot" width="1920" height="1080" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/Gloryshot.jpg 1920w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/Gloryshot-300x169.jpg 300w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/Gloryshot-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />](https://www.broad-strokes.com/images/wp-content/uploads/2014/09/Gloryshot.jpg)
 
 ## Download:
 
@@ -34,27 +34,27 @@ A Wipeout-inspired transdimensional racing game! Avoid mines with skillful maneu
   <figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot3.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="hexracer-shot3" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot3-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot3-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot3.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="hexracer-shot3" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot3-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot3-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot2.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="hexracer-shot2" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot2-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot2-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot2.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="hexracer-shot2" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot2-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot2-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot1.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="hexracer-shot1" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot1-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot1-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot1.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="hexracer-shot1" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot1-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot1-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot4.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="hexracer-shot4" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot4-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot4-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot4.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="hexracer-shot4" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot4-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/hexracer-shot4-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/09/KittyMKII.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/KittyMKII-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="KittyMKII" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/KittyMKII-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/KittyMKII-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/09/KittyMKII.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/KittyMKII-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="KittyMKII" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/KittyMKII-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/KittyMKII-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/09/Drone_01.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/Drone_01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Drone_01" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/Drone_01-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/Drone_01-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/09/Drone_01.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/Drone_01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Drone_01" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/Drone_01-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/Drone_01-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure>
 </div>
 

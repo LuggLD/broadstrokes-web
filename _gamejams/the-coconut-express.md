@@ -4,14 +4,14 @@ title: The Coconut Express
 date: 2014-11-17T05:52:36+00:00
 author: Jan
 layout: page
-guid: http://www.broad-strokes.com/?page_id=129
+guid: https://www.broad-strokes.com/?page_id=129
 header:
   image: /images/features/coconutexpress.jpg
   teaser: /images/features/coconutexpress-th.jpg
 ---
 ### Winning Game of Epic Games&#8217; &#8220;Two Birds with One Stone&#8221; November Unreal Engine Gamejam
 
-[<img class="alignnone wp-image-135 size-full" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj.jpg" alt="" width="5120" height="2880" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj.jpg 5120w, http://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj-300x169.jpg 300w, http://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj-1024x576.jpg 1024w" sizes="(max-width: 5120px) 100vw, 5120px" />](http://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj.jpg)
+[<img class="alignnone wp-image-135 size-full" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj.jpg" alt="" width="5120" height="2880" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj.jpg 5120w, https://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj-300x169.jpg 300w, https://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj-1024x576.jpg 1024w" sizes="(max-width: 5120px) 100vw, 5120px" />](https://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj.jpg)
 
 ## Download:
 
@@ -34,27 +34,27 @@ These two swallows have accepted the challenge.
   <figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final4.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="coconut_final4" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final4-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final4-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final4.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="coconut_final4" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final4-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final4-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/11/2SrSB8Z.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/2SrSB8Z-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="2SrSB8Z" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/2SrSB8Z-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/11/2SrSB8Z-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/11/2SrSB8Z.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/2SrSB8Z-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="2SrSB8Z" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/2SrSB8Z-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/11/2SrSB8Z-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final2.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="coconut_final2" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final2-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final2-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final2.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="coconut_final2" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final2-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final2-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final1.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="coconut_final1" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final1-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final1-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final1.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="coconut_final1" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final1-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final1-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="GfDX2Vj" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="GfDX2Vj" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/11/GfDX2Vj-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final3.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="coconut_final3" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final3-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final3-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final3.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="coconut_final3" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final3-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/11/coconut_final3-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div></figure>
 </div>
 

@@ -4,14 +4,14 @@ title: Showdown at the O.K. Coral
 date: 2014-09-29T14:39:23+00:00
 author: Jan
 layout: page
-guid: http://www.broad-strokes.com/?page_id=67
+guid: https://www.broad-strokes.com/?page_id=67
 header:
   image: /images/features/okcoral.jpg
   teaser: /images/features/okcoral-th.jpg
 ---
 ### Jam entry for Ludum Dare 29
 
-[<img class="size-full wp-image-72" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot2.jpg" alt="Title screen" width="1600" height="900" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot2.jpg 1600w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot2-300x169.jpg 300w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot2-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />](http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot2.jpg)
+[<img class="size-full wp-image-72" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot2.jpg" alt="Title screen" width="1600" height="900" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot2.jpg 1600w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot2-300x169.jpg 300w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot2-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />](https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot2.jpg)
 
 ## Download:
 
@@ -33,15 +33,15 @@ You are a COLLECTOR CRAB set on defending his stash from the EVIL FISH. You are 
   <figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot3.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Underwater serenity" aria-describedby="gallery-1-73" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot3-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot3-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot3.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Underwater serenity" aria-describedby="gallery-1-73" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot3-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot3-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-73'> Underwater serenity </figcaption></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot1.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="The electric eel gun in action" aria-describedby="gallery-1-71" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot1-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot1-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot1.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="The electric eel gun in action" aria-describedby="gallery-1-71" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot1-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot1-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-71'> The electric eel gun in action </figcaption></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot4.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Scoreboard" aria-describedby="gallery-1-74" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot4-150x150.jpg 150w, http://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot4-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot4.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Scoreboard" aria-describedby="gallery-1-74" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot4-150x150.jpg 150w, https://www.broad-strokes.com/images/wp-content/uploads/2014/09/okcoral-shot4-500x500.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-74'> Scoreboard </figcaption></figure>
 </div>
 

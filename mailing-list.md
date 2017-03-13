@@ -5,7 +5,7 @@ date: 2016-05-10T02:08:42+00:00
 author: Jan
 layout: single
 permalink: /mailing-list/
-guid: http://www.broad-strokes.com/?page_id=511
+guid: https://www.broad-strokes.com/?page_id=511
 ---
 If you want to keep up to date with what we get up to, or when new tutorials are posted, sign up here! I promise we won’t spam you. But if we put out new cool stuff that I think you might enjoy, I’ll drop you a message! 🙂
 

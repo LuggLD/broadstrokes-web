@@ -4,7 +4,7 @@ title: Newsletter Sign-up Success!
 date: 2016-05-10T01:43:02+00:00
 author: Jan
 layout: page
-guid: http://www.broad-strokes.com/?page_id=504
+guid: https://www.broad-strokes.com/?page_id=504
 ---
 <p style="text-align: center;">
   Thanks for signing up for our newsletter! Our mailing list is handled by MailChimp, and you should receive a sign-up verification email shortly! 🙂

@@ -4,7 +4,7 @@ title: Team
 author: Jan
 layout: single
 permalink: /team/
-guid: http://www.broad-strokes.com/?page_id=40
+guid: https://www.broad-strokes.com/?page_id=40
 redirect_from: /about/
 ---
 

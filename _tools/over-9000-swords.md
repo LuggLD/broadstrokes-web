@@ -4,7 +4,7 @@ title: Over 9000 Swords
 date: 2015-09-29T02:38:44+00:00
 author: Jan
 layout: page
-guid: http://www.broad-strokes.com/?page_id=395
+guid: https://www.broad-strokes.com/?page_id=395
 ---
 ### Modular Melee Weapon System
 
@@ -15,7 +15,7 @@ Get it now <a href="https://www.unrealengine.com/marketplace/over-9000-swords" t
 
 ‘Over 9000 Swords’ by Broad Strokes is a modular weapon system designed to help you quickly add variety to your game.
 
-[Free Unity Demo](http://www.broad-strokes.com/download/9000SwordsUnityDemo.zip) (57 MB)
+[Free Unity Demo](https://www.broad-strokes.com/download/9000SwordsUnityDemo.zip) (57 MB)
 
 With 44 different components split over four categories, it’s possible to make up to 13,552 different unique swords with the meshes provided &#8211; and this package has been designed from the ground up to let you easily extend that amount with additional sword parts or even add your own unique weapon types and components.
 

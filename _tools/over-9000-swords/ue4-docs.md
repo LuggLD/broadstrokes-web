@@ -4,7 +4,7 @@ title: 'Over 9000 Swords &#8211; UE4 Documentation'
 date: 2015-11-23T19:47:58+00:00
 author: Jan
 layout: page
-guid: http://www.broad-strokes.com/?page_id=426
+guid: https://www.broad-strokes.com/?page_id=426
 ---
 ## Getting Started
 

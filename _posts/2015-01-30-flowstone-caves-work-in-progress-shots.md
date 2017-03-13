@@ -4,7 +4,7 @@ title: 'Flowstone Caves: Work-in-progress shots'
 date: 2015-01-30T09:40:32+00:00
 author: Jan
 layout: single
-guid: http://www.broad-strokes.com/?p=270
+guid: https://www.broad-strokes.com/?p=270
 permalink: /2015-01/flowstone-caves-work-in-progress-shots/
 header:
   teaser: /images/features/flowstonecave-wip-th.jpg
@@ -21,27 +21,27 @@ This week I&#8217;ve been working on a little scene to showcase my dear friend Y
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone7.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="flowstone7" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone7.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="flowstone7" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone2.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="flowstone2" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone2.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="flowstone2" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone5.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="flowstone5" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone5.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="flowstone5" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone6.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="flowstone6" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone6.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="flowstone6" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone1.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="flowstone1" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone1.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="flowstone1" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone3.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="flowstone3" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone3.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2015/01/flowstone3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="flowstone3" /></a>
   </div></figure>
 </div>
 

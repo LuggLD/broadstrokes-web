@@ -4,20 +4,20 @@ title: Fifty Shades of Heyyyyy!
 date: 2015-02-19T20:09:49+00:00
 author: Jan
 layout: page
-guid: http://www.broad-strokes.com/?page_id=323
+guid: https://www.broad-strokes.com/?page_id=323
 header:
   image: /images/features/heyyyyy.jpg
   teaser: /images/features/heyyyyy-th.jpg
 ---
 ### Submission to UE4 February Gamejam: &#8220;Love is a Battlefield&#8221;
 
-[<img class="alignnone wp-image-325 size-large" title=" " src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1-1024x576.jpg" alt="" width="640" height="360" srcset="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1-1024x576.jpg 1024w, http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1-300x169.jpg 300w, http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" />](http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1.jpg)
+[<img class="alignnone wp-image-325 size-large" title=" " src="https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1-1024x576.jpg" alt="" width="640" height="360" srcset="https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1-1024x576.jpg 1024w, https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1-300x169.jpg 300w, https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" />](https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1.jpg)
 
 ## Download:
 
 Submission version:
 
-  * [Download for Windows](http://www.broad-strokes.com/download/heyyyyy.zip) (x86)
+  * [Download for Windows](https://www.broad-strokes.com/download/heyyyyy.zip) (x86)
 
 ## Fifty Shades of &#8220;Heyyyyy!&#8221;
 
@@ -27,19 +27,19 @@ As I described it once, in a sleep-deprived state: &#8220;In short, it&#8217;s a
   <figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot4.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot4" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot4.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot4" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot3.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot3" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot3.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot3" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot2.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot2" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot2.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot2" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1.jpg'><img width="150" height="150" src="http://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot1" /></a>
+    <a href='https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1.jpg'><img width="150" height="150" src="https://www.broad-strokes.com/images/wp-content/uploads/2015/02/heyyyyy-shot1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="heyyyyy-shot1" /></a>
   </div></figure>
 </div>
 

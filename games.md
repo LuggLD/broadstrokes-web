@@ -5,7 +5,7 @@ date: 2014-09-29T14:08:45+00:00
 author: Jan
 layout: archive
 permalink: /games/
-guid: http://www.broad-strokes.com/?page_id=62
+guid: https://www.broad-strokes.com/?page_id=62
 ---
 
 {% include base_path %}
